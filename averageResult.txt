@@ -1,0 +1,14 @@
+Result
+$ bash -x average.sh
++ num1=8
++ num2=6
++ num3=2
++ num4=19
++ num5=13
++ sum=48
++ avg=24
++ echo 48
+48
++ echo 24
+24
+
